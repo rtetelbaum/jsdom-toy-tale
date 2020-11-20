@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
@@ -49,9 +49,9 @@
       "likes": -2
     },
     {
-      "name": "jo",
-      "image": "asdfsadf",
-      "likes": 0,
+      "name": "Jo",
+      "image": "https://cdn.shopify.com/s/files/1/1201/1908/products/BillyJoToyGoat_540x.jpg?v=1592177206",
+      "likes": 1,
       "id": 9
     }
   ]
